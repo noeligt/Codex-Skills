@@ -1,0 +1,4 @@
+interface:
+  display_name: "SP Diagrams"
+  short_description: "Diagram stored procedure logic"
+  default_prompt: "Use $sp-diagrams to analyze this stored procedure and generate a detailed image diagram."
